@@ -4,28 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44a31360-cfc9-4f3f-b86f-28c02beff0a5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/myTravel/AppStart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/myTravel/config/MvcConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/myTravel/controller/text" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/myTravel/domain/BaseTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/myTravel/domain/dto/text3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/myTravel/domain/entity/text2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/myTravel/domain/mytravel.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/myTravel/domain/respository/text1" afterDir="false" />
+    <list default="true" id="44a31360-cfc9-4f3f-b86f-28c02beff0a5" name="Changes" comment="myTravel 초기세팅">
       <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +57,29 @@
       <option name="presentableId" value="Default" />
       <updated>1700382220803</updated>
     </task>
+    <task id="LOCAL-00001" summary="myTravel 초기세팅">
+      <created>1700383592855</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1700383592855</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="myTravel 초기세팅" />
+    <option name="LAST_COMMIT_MESSAGE" value="myTravel 초기세팅" />
   </component>
 </project>
