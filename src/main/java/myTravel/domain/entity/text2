@@ -1,0 +1,30 @@
+DB에 들어가는 실제 형태
+@Entity
+@Table(name = "테이블명")
+@Data
+@NoArgsConstructor
+@AllArgsConstructor
+@Builder
+public class 엔티티파일명 extends BaseTime {
+
+    -- PK 컬럼 설정
+    @Id
+    @GeneratedValue(strategy = GenerationType.IDENTIT정)
+    private int 컬럼명1;
+
+    - 일반 컬럼 설정
+    @Column
+    private String 컬럼명2;
+
+
+    -- 아래와 같은 건 필요 없을 듯 FK 설정 안하기 때문....
+    @ManyToOne
+    @JoinColumn(name = "PK") //pk 이름 정하기
+    @ToString.Exclude
+    private 연결할엔티티 연결할엔티티변수명;
+
+    @OneToMany(mappedBy = "매핑할엔티티")
+    @Builder.Default
+    @ToString.Exclude
+    private List<엔티티> 엔티티변수명 = new ArrayList<>();
+

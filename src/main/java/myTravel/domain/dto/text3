@@ -1,0 +1,14 @@
+# 형식
+
+import lombok.*;
+
+@Data
+@NoArgsConstructor
+@AllArgsConstructor
+@Builder
+public class MemberDto {
+    private int 변수명;
+
+    생성자 자리
+
+}
