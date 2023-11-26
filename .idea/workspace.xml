@@ -5,9 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44a31360-cfc9-4f3f-b86f-28c02beff0a5" name="Changes" comment="myTravel 초기세팅">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/frontend/src/component/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/frontend/src/component/Main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/frontend/src/component/Menu/Menu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/frontend/src/component/Menu/Menu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/frontend/src/component/Record.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/frontend/src/component/img/HeaderLogo.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/frontend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/frontend/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/frontend/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/frontend/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/frontend/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,9 +38,28 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="6f29a65b-2174-4588-9083-7562736f2180" />
+        <option name="url" value="https://github.com/Ga0Kwon/myTravel.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2YO2HthbPiReqtC3NkyMiusf9e0" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -40,11 +68,18 @@
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/gayeongkwon/IdeaProjects/myTravel/src/main/frontend/src/Image"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/frontend/src/Image" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/frontend/src/component/Image" />
+      <recent name="$PROJECT_DIR$/src/main/frontend/src/component" />
+      <recent name="$PROJECT_DIR$/src/main/frontend/src/component/Menu" />
       <recent name="$PROJECT_DIR$/src/main/java/myTravel/domain" />
     </key>
   </component>
@@ -64,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1700383592855</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="myTravel 초기세팅">
+      <created>1700383912953</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1700383912953</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -72,7 +114,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>

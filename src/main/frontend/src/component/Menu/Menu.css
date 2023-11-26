@@ -1,0 +1,12 @@
+.menuBar{
+    width : 100%;
+    background-color : white;
+    padding : 15px 0px;
+    text-align : right;
+}
+
+.menuBarContent{
+    color : blue;
+    margin : 8px;
+    text-decoration : none;
+}
